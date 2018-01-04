@@ -1,3 +1,4 @@
 commands of sql
 update delte
 insert select
+create tableemp (id int, ename varchar(10));
