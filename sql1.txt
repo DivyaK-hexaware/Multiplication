@@ -1,0 +1,3 @@
+commands of sql
+update delte
+insert select
