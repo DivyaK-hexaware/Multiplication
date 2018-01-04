@@ -1,2 +1,3 @@
 hello here is the day1 class of sql
 create table emp( id int , ename varchar(20));
+update emp set id =1;
